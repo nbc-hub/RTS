@@ -1,5 +1,4 @@
-# RTS
-Real Time Strategy
+# Real Time Strategy
 
 ### This project is made to learn
 
