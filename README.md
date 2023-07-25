@@ -18,7 +18,7 @@ Real Time Strategy
 ![SpawnUnit](https://github.com/nbc-hub/RTS/assets/74993460/007ddbf4-6ffb-42d0-ad6b-84634ad3d4ba)
 ### Gameplay
 ![LastFight](https://github.com/nbc-hub/RTS/assets/74993460/d0d71fb3-e16f-4636-9bb2-78e8b291a31f)
-### Enjoy
+### Peace
 ![Guitar](https://github.com/nbc-hub/RTS/assets/74993460/6f0e5e4f-61f9-45bd-b055-9a13dc609fb8)
 
 ### Made With Unity Open Projects
